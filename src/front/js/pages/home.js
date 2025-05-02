@@ -17,6 +17,8 @@ import Mundo from "../../img/Mundo.jpg";
 
 import "../../styles/home.css";
 
+//restructurar el peoyecto
+//hacer un navbar con las rutas 
 export const Home = () => {
   const { store, actions } = useContext(Context);
 

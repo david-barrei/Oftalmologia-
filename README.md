@@ -156,4 +156,4 @@ DATABASE_URL=sqlite:///instance/app.db
 
 ## 📚 Licencia
 
-MIT © 2025 - Desarrollado por Julio
+MIT © 2025 - Desarrollado por David
